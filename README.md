@@ -1,3 +1,3 @@
-# Data-Augmentation-Technique
-This is an implementation of  Effective Battery Parameter Data Augmentation Techniques to Resolve Sparse Dataset Challenges.  
+# Probabilistic-Forecasting-of-Time-Series
+This is an implementation of  A probabilistic forecasting approach towards generation of synthetic battery parameters to resolve limited data challenges.
 Variables considered- Voltage (V), Charge Capacity (Ah), Discharge Capacity, Current.
