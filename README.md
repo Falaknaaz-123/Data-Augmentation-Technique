@@ -1,4 +1,4 @@
-# Probabilistic-Forecasting-of-Time-Series
+# Probabilistic-Time-Series-Forecasting
 This is an implementation of  Forecasting of Electrical parameters using Autoregressive Neural Networks(Machine Learning):
 
 Variables considered- Voltage (V), Charge Capacity (Ah), Discharge Capacity, Current.
